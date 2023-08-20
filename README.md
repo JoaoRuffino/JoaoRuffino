@@ -1,11 +1,29 @@
-### Hello, Welcome to my Github! 👋
+# Bem-vindo ao Meu Repositório
 
-- I'm João Ruffino, I'm 17 years old and I'm a lover of everything that involves technology, especially programming
-- Studying Javascript, C, PHP, SQL
+[![GitHub followers](https://img.shields.io/github/followers/JoaoRuffino?style=social)](https://github.com/JoaoRuffino)
+[![GitHub stars](https://img.shields.io/github/stars/JoaoRuffino/SeuRepositorio?style=social)](https://github.com/JoaoRuffino/SeuRepositorio)
 
+Este é o repositório onde eu compartilho projetos e trabalhos relacionados a desenvolvimento web e programação. Aqui você encontrará exemplos de código em HTML, CSS, JavaScript, PHP, MySQL e Python.
 
-![image](https://github.com/JoaoRuffino/JoaoRuffino/assets/131279015/2cf3dce7-c0bb-40ce-bab8-1e353e71dcbe) ![image](https://github.com/JoaoRuffino/JoaoRuffino/assets/131279015/ac759e01-8f98-4a25-97fe-9c3a429bac84) ![image](https://github.com/JoaoRuffino/JoaoRuffino/assets/131279015/650584c4-c0d2-4f27-bb42-c1115ade24a5) ![image](https://github.com/JoaoRuffino/JoaoRuffino/assets/131279015/076fc647-6e31-451d-89ed-294091eb7298)
- ![image](https://github.com/JoaoRuffino/JoaoRuffino/assets/131279015/90f455e3-a7c8-40c2-8e28-11db2ec49b00) 
+## Linguagens e Tecnologias
 
+- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- PHP ![PHP](https://img.icons8.com/color/48/000000/php.png)
+- MySQL ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JoaoRuffino=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## Projetos Destacados
+
+- [Projeto 1](link_projeto_1) - Breve descrição do projeto.
+- [Projeto 2](link_projeto_2) - Breve descrição do projeto.
+
+## Estatísticas da Minha Conta
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoRuffino&show_icons=true&theme=radical)
+
+## Entre em Contato
+
+Se você gostaria de saber mais sobre algum projeto ou entrar em contato comigo, sinta-se à vontade para me encontrar no [GitHub](https://github.com/JoaoRuffino) ou nas redes sociais.
+
