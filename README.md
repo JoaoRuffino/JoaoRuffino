@@ -20,5 +20,5 @@ This is the repository where I share projects and work related to web developmen
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoruffino/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1692559992)
 
-Se você gostaria de saber mais sobre algum projeto ou entrar em contato comigo, sinta-se à vontade para me encontrar no [GitHub](https://github.com/JoaoRuffino) ou nas redes sociais.
+If you would like to find out more about any projects or get in touch with me, feel free to find me at [GitHub](https://github.com/JoaoRuffino) or on social networks.
 
