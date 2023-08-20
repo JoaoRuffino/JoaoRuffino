@@ -10,7 +10,7 @@ Este é o repositório onde eu compartilho projetos e trabalhos relacionados a d
 
 
 ## Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoRuffino&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRuffino&layout=compact)
 
 ## Entre em Contato
