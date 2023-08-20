@@ -8,4 +8,4 @@
  ![image](https://github.com/JoaoRuffino/JoaoRuffino/assets/131279015/90f455e3-a7c8-40c2-8e28-11db2ec49b00) 
 
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJoaoRuffinoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JoaoRuffino=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
