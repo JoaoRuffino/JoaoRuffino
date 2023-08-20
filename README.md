@@ -16,7 +16,7 @@ This is the repository where I share projects and work related to web developmen
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRuffino&layout=compact&theme=dark)
 
 ## Contact
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/ruffinojoaoo/)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ruffinojoaoo/)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/joaoruffino/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://criarmeulink.com.br/u/1692559992)
 Se você gostaria de saber mais sobre algum projeto ou entrar em contato comigo, sinta-se à vontade para me encontrar no [GitHub](https://github.com/JoaoRuffino) ou nas redes sociais.
