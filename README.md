@@ -1,7 +1,7 @@
 # Welcome, to my Github!
 
-- 👾 I'm Joao Ruffino, I'm 17 and I'm passionate about everything that involves technology, especially programming
-- 📕 Studying Javascript, PHP and C
+- 👾 I'm Joao Ruffino, I'm 19 and I'm passionate about everything that involves technology, especially programming
+- 📕 Studying Java, Linux and Network
 
 
 This is the repository where I share projects and work related to web development and programming. Here you will find code examples in HTML, CSS, JavaScript, PHP, C and Python.
