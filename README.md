@@ -8,7 +8,7 @@ This is the repository where I share projects and work related to web developmen
 
 ## Languages and Technologies
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![PHP](https://img.icons8.com/color/48/000000/php.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![PHP](https://img.icons8.com/color/48/000000/php.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png)[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
 
 ## Stats
