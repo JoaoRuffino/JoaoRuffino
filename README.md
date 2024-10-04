@@ -4,7 +4,7 @@
 - 📕 Studying Java, Linux and Network
 
 
-This is the repository where I share projects and work related to web development and programming. Here you will find code examples in HTML, CSS, JavaScript, PHP, C and Python.
+This is the repository where I share projects and work related to web development and programming. Here you will find code examples in Java, JavaScript, PHP, C and Python.
 
 ## Languages and Technologies
 
