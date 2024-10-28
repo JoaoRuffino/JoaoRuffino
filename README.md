@@ -8,6 +8,12 @@ This is the repository where I share projects and work related to web developmen
 
 ## Languages and Technologies
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,redhat,docker,azure,vim,git,mysql,postman,react,html,css,c,java,js,ts,php,py" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=linux,redhat,docker,azure,vim,git,mysql,postman,react,html,css,c,java,js,ts,php,py)](https://skillicons.dev)
 
 ## Stats
