@@ -14,8 +14,6 @@ This is the repository where I share projects and work related to web developmen
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,redhat,docker,azure,vim,git,mysql,postman,react,html,css,c,java,js,ts,php,py)](https://skillicons.dev)
-
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRuffino&layout=compact&theme=dark)
