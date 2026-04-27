@@ -1,6 +1,6 @@
 # Welcome, to my Github!!
 
-- 👾 I'm Joao Ruffino, I'm 19 and I'm passionate about everything that involves technology, especially programming
+- 👾 I'm Joao Ruffino, I'm 20 and I'm passionate about everything that involves technology, especially programming
 - 📕 Studying Java, Linux and Network
 
 
