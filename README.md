@@ -14,9 +14,6 @@ This is the repository where I share projects and work related to web developmen
   </a>
 </p>
 
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRuffino&layout=compact&theme=dark)
 
 ## Contact
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ruffinojoaoo/)
