@@ -4,13 +4,13 @@
 - 📕 Studying Java, Linux and Network
 
 
-This is the repository where I share projects and work related to web development and programming. Here you will find code examples in Java, JavaScript, PHP, C and Python.
+This is the repository where I share projects and work related to web development and programming. Here you will find code examples in Java, C and Python.
 
 ## Languages and Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,redhat,docker,azure,vim,git,mysql,postman,react,html,css,c,java,js,ts,php,py" />
+    <img src="https://skillicons.dev/icons?i=linux,redhat,docker,azure,vim,git,github,jenkins,postgres,mysql,postman,c,java,spring,py" />
   </a>
 </p>
 
